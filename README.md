@@ -1,4 +1,4 @@
-# My Git Practice
+# Estatly Practice Project
 
 This project is my Git practice repo.
 
