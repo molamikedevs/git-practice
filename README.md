@@ -1,4 +1,4 @@
-# My Git Practice
+# My Real Estate App
 
 This project is my Git practice repo.
 
